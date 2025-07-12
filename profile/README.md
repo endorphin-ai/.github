@@ -1,7 +1,7 @@
 # 🧠 Endorphin AI
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/endorphin-ai/.github/main/profile/images/endorphin.jpg" alt="Endorphin AI Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/endorphin-ai/.github/develop/profile/images/endorphin-ai-logo-no-bg.png" alt="Endorphin AI Logo" width="200"/>
   
   **Building the Future of Artificial Intelligence**
   
