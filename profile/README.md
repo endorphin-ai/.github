@@ -29,8 +29,8 @@ At Endorphin AI, we're passionate about creating intelligent solutions that enha
 <!-- Add your key projects here -->
 
 -   **[Endorphin](https://github.com/endorphin-ai/endorphin-ai)** - AI AGENT FOR E2E Testing
-<!-- -   **[Project Name 2](https://github.com/endorphinai/project2)** - Brief description of what this project does
--   **[Project Name 3](https://github.com/endorphinai/project3)** - Brief description of what this project does -->
+-   **[Squad Architect ](https://github.com/endorphin-ai/squad-architect)** - Design and build multi-agent squads for Claude Code.
+<!-- -   **[Project Name 3](https://github.com/endorphinai/project3)** - Brief description of what this project does -->
 
 ## 🛠️ Technologies We Love
 
