@@ -1,4 +1,4 @@
-# 🧠 Endorphin AI
+# 🧠 Endorphin AI Lab
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/endorphin-ai/.github/develop/profile/images/endorphin-ai-logo-no-bg.png" alt="Endorphin AI Logo" width="200"/>
