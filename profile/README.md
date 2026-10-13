@@ -56,7 +56,7 @@ Part of our work is public. Read it, run it, open an issue.
 
 | When | Product | Release |
 |---|---|---|
-| Late November 2026 | Endorphin | Version 2, the next major version of the testing framework. An early build passes 118 of 161 challenges (73.3%) on [qa-agents-bench.com](https://qa-agents-bench.com/), in about 4 minutes for $0.04. |
+| Late November 2026 | Endorphin | Version 2, the next major version of the testing framework. An early build passes 127 of 161 challenges (79%) on [QA Agent Bench](https://qa-agents-bench.com/), in about 6 minutes for $0.04. |
 | January 2027 | Endorphin | Endorphin Go Pro: runs fully on your own machine, with built-in AI, at no cost per test. |
 | No date yet | Linebacker | First release. |
 | No date yet | ULU | First release, for macOS and Linux. |
