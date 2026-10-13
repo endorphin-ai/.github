@@ -46,6 +46,7 @@ Part of our work is public. Read it, run it, open an issue.
 | [endorphin-ai](https://github.com/endorphin-ai/endorphin-ai) | The Endorphin testing framework: TypeScript, Playwright and LangChain. AGPL-3.0. |
 | [hasbrains-agent-kit](https://github.com/endorphin-ai/hasbrains-agent-kit) | A Claude Code kit: agent skills, subagents and slash commands. Lomi is released from here. |
 | [squad-architect](https://github.com/endorphin-ai/squad-architect) | Design and build multi-agent squads for Claude Code. |
+| [TEACH-ME](https://github.com/endorphin-ai/TEACH-ME) | A Claude Code skill that turns Claude into a teacher: it studies the topic first, checks what you understood, and remembers where you stopped. |
 | [TASKLANG](https://github.com/endorphin-ai/TASKLANG) | A language for writing tasks that both AI and people can read. |
 | [endorphin-ai-website-translations](https://github.com/endorphin-ai/endorphin-ai-website-translations) | Community translations of the Endorphin website. |
 
@@ -55,7 +56,7 @@ Part of our work is public. Read it, run it, open an issue.
 
 | When | Product | Release |
 |---|---|---|
-| Late November 2026 | Endorphin | Version 2, the next major version of the testing framework. |
+| Late November 2026 | Endorphin | Version 2, the next major version of the testing framework. An early build passes 127 of 161 challenges (79%) on [QA Agent Bench](https://qa-agents-bench.com/), in about 6 minutes for $0.04. |
 | January 2027 | Endorphin | Endorphin Go Pro: runs fully on your own machine, with built-in AI, at no cost per test. |
 | No date yet | Linebacker | First release. |
 | No date yet | ULU | First release, for macOS and Linux. |
