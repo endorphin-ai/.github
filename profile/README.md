@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://endorphinailab.com/">
-    <img src="https://raw.githubusercontent.com/endorphin-ai/.github/develop/profile/images/endorphin-lab-icon.png" alt="Endorphin Lab: a blue alien making a peace sign" width="180"/>
+    <img src="https://raw.githubusercontent.com/endorphin-ai/.github/develop/profile/images/endorphin-lab-banner.jpg" alt="AI Lab: a blue alien leaning on a glowing molecule between the words AI and LAB" width="100%"/>
   </a>
 
   <h1>Endorphin Lab</h1>
